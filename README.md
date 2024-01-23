@@ -1,4 +1,4 @@
-dssd_insulate_ukraine
+Building Damage Estimates
 ==============================
 
 This project is aimed at using the Economists War Fire Model to produce estimates of the number of windows smashed across administrative areas in Ukraine.
